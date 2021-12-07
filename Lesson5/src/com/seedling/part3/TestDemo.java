@@ -1,4 +1,4 @@
-package com.tuling.part3;
+package com.seedling.part3;
 
 public class TestDemo {
     public static void main(String[] args) {

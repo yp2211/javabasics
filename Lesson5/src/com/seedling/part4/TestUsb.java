@@ -1,4 +1,4 @@
-package com.tuling.part4;
+package com.seedling.part4;
 
 public class TestUsb {
     public static void main(String[] args) {

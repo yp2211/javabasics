@@ -1,4 +1,4 @@
-package com.tuling.part4;
+package com.seedling.part4;
 
 interface Fu1{
 

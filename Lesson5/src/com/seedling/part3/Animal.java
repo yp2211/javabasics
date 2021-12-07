@@ -1,4 +1,4 @@
-package com.tuling.part3;
+package com.seedling.part3;
 
 class Cat extends Animal{//要么就要实现抽象方法
 

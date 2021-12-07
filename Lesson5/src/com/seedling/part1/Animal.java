@@ -1,6 +1,4 @@
-package com.tuling.part1;
-
-import java.util.Objects;
+package com.seedling.part1;
 
 class Cat extends Animal{
     //新增的属性

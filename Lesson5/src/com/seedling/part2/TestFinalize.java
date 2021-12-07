@@ -1,4 +1,4 @@
-package com.tuling.part2;
+package com.seedling.part2;
 
 public class TestFinalize {
     public static void main(String[] args) {

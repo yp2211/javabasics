@@ -1,4 +1,4 @@
-package com.tuling.part2;
+package com.seedling.part2;
 
 import java.util.Objects;
 

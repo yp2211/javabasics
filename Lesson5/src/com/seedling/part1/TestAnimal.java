@@ -1,4 +1,4 @@
-package com.tuling.part1;
+package com.seedling.part1;
 
 public class TestAnimal {
 
