@@ -36,7 +36,7 @@ public class Person {
 //    }
 
 
-    public Person(int age,String name){
+    public Person(int age, String name){
         //当局部变量和成员变量命名冲突的时候，通过this来区分：
         this(name);
         this.age = age;
@@ -77,8 +77,19 @@ public class Person {
         System.out.println("在工作.....");
     }
 
+    public String getName() {
+        return name;
+    }
 
+    public void setName(String name) {
+        this.name = name;
+    }
 
+    public int getAge() {
+        return age;
+    }
 
-
+    public void setAge(int age) {
+        this.age = age;
+    }
 }

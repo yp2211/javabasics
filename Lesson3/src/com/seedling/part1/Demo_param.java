@@ -16,8 +16,14 @@ public class Demo_param {
 
     public static void main(String[] args) {
 
+        String s = "abc";
+        String s1 = "abc";
+        System.out.println(s == s1);
 
-        printShape(8,20,'c');//实参和形参要一一对应，参数的个数，类型，顺序都要一一对应
+
+
+
+//        printShape(8,20,'c');//实参和形参要一一对应，参数的个数，类型，顺序都要一一对应
 
     }
 }
