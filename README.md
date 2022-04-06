@@ -10,6 +10,6 @@
 
 ### [3. Variables](./docs/chapter2.md#三变量)
 
-### [4. operators](./docs/chapter2.md#四运算符)
+### [4. Operators](./docs/chapter2.md#四运算符)
 
-### [5. program flow control](./docs/chapter2.md#五程序流程控制)
+### [5. Program flow control](./docs/chapter2.md#五程序流程控制)
