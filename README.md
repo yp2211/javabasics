@@ -2,7 +2,7 @@
 
 ## Chapter 1: Entering the Java World
 
-## [Chapter 2: Java Basic Syntax](../docs/chapter2.md)
+## [Chapter 2: Java Basic Syntax](./docs/chapter2.md)
 
 ### 1. Keywords and reserved words
 
