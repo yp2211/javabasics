@@ -6,10 +6,10 @@
 
 ### [1. Keywords and reserved words](./docs/chapter2.md#一关键字和保留字)
 
-### 2. Identifier
+### [2. Identifier](./docs/chapter2.md#二标识符)
 
-### 3. Variables
+### [3. Variables](./docs/chapter2.md#三变量)
 
-### 4. operators
+### [4. operators](./docs/chapter2.md#四运算符)
 
-### 5. program flow control
+### [5. program flow control](./docs/chapter2.md#五程序流程控制)
