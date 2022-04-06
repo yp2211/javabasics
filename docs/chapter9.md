@@ -1,0 +1,32 @@
+## 第9章 IO流
+
+### ⼀、File类
+### ⼆、什么是IO
+### 三、IO分类
+### 四、字节流
+#### 字节输出流
+#### FileOutputStream类
+#### 字节输⼊流
+#### FileInputStream类
+#### 综合案例：图⽚复制
+### 五、字符流
+#### 字符输⼊流
+#### FileReader类
+#### 字符输出流
+#### FileWriter类
+### 六、缓冲流
+#### 概述
+#### 字节缓冲流
+#### 效率PK
+#### 字符缓冲流
+#### 特有⽅法
+### 七、转换流
+#### InputStreamReader类
+#### OutputStreamWriter类
+### ⼋、序列化
+#### 概述
+#### ObjectOutputStream类
+#### 序列化操作
+#### ObjectInputStream类
+#### 反序列化操作
+### 九、Properties属性类
