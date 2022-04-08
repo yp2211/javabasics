@@ -1,6 +1,6 @@
 # Learn Java From Scratch
 
-## Chapter 1: Entering the Java World
+## [Chapter 1: Entering the Java World](./docs/chapter1.md)
 
 ## [Chapter 2: Java Basic Syntax](./docs/chapter2.md)
 
@@ -14,7 +14,7 @@
 
 ### [5. Program flow control](./docs/chapter2.md#五程序流程控制)
 
-## 第3章 面向对象（一）
+## [第3章 面向对象（一）](./docs/chapter3.md)
 
 ### 一、Java方法（函数）
 #### 概念
