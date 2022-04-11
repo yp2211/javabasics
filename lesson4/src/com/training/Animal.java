@@ -36,4 +36,8 @@ public class Animal {
 
     }
 
+    public String toString() {
+        return String.format("{'Name': %s, 'isMale': %s}", this.name, this.isMale);
+    }
+
 }
